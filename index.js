@@ -1,0 +1,1 @@
+console.log(`Yes! I'M ALIVE!!! I'm inside a VM? YES!!!`);
